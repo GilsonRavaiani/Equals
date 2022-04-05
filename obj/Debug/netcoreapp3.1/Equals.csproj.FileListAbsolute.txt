@@ -1,0 +1,13 @@
+C:\Balta_C#\Equals\bin\Debug\netcoreapp3.1\Equals.exe
+C:\Balta_C#\Equals\bin\Debug\netcoreapp3.1\Equals.deps.json
+C:\Balta_C#\Equals\bin\Debug\netcoreapp3.1\Equals.runtimeconfig.json
+C:\Balta_C#\Equals\bin\Debug\netcoreapp3.1\Equals.runtimeconfig.dev.json
+C:\Balta_C#\Equals\bin\Debug\netcoreapp3.1\Equals.dll
+C:\Balta_C#\Equals\bin\Debug\netcoreapp3.1\Equals.pdb
+C:\Balta_C#\Equals\obj\Debug\netcoreapp3.1\Equals.csprojAssemblyReference.cache
+C:\Balta_C#\Equals\obj\Debug\netcoreapp3.1\Equals.AssemblyInfoInputs.cache
+C:\Balta_C#\Equals\obj\Debug\netcoreapp3.1\Equals.AssemblyInfo.cs
+C:\Balta_C#\Equals\obj\Debug\netcoreapp3.1\Equals.csproj.CoreCompileInputs.cache
+C:\Balta_C#\Equals\obj\Debug\netcoreapp3.1\Equals.dll
+C:\Balta_C#\Equals\obj\Debug\netcoreapp3.1\Equals.pdb
+C:\Balta_C#\Equals\obj\Debug\netcoreapp3.1\Equals.genruntimeconfig.cache
